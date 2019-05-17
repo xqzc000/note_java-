@@ -56,7 +56,7 @@ Full thread dump Java HotSpot(TM) 64-Bit Server VM (25.40-b25 mixed mode):
 ```
 1.AsyncResolver-bootstrap-executor-0 :线程名
 2.prio优先级
-3.tid ，nid 为16进制，转成十进制可以找到相关的进程（mac不能找到对应的进程）
+3.tid ，nid 为16进制，目前不知道是什么（mac不能找到对应的进程）
 4.java.lang.Thread.State: WAITING线程等待状态
 5.LockSupport.java:175   ：栈顶
 5.Locked ownable synchronizers:
